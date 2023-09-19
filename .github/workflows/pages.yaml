@@ -40,11 +40,11 @@ jobs:
       - name: Setup Go
         uses: actions/setup-go@v4
         with:
-          go-version: '1.21'
+          go-version: '1.20'
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.117.0'
+          hugo-version: '0.118.2'
           extended: true
       - name: Build with Hugo
         env:
@@ -53,7 +53,8 @@ jobs:
           HUGO_ENV: production
         run: |
           hugo \
-            --gc --minify \
+            --minify \
+            --themesDir=../.. \
             --baseURL "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
