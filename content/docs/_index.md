@@ -1,18 +1,12 @@
 ---
 title: Documentation
-next: first-page
+type: docs
+prev: /
+next: docs/form/
 ---
 
-This is a demo of the theme's documentation layout.
-
-## Hello, World!
-
-```go {filename="main.go"}
-package main
-
-import "fmt"
-
-func main() {
-    fmt.Println("Hello, World!")
-}
-```
+{{< cards >}}
+{{< card link="docs/form" title="Formulare" icon="view-list" >}}
+    {{< card link="docs/notion" title="Notion" icon="document" >}}
+    {{< card link="docs/storage" title="Speicher" icon="database" >}}
+{{< /cards >}}

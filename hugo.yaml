@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: My Site
+title: Generated Notion Forms
 
 # import hextra as module
 module:
@@ -22,10 +22,10 @@ menu:
       pageRef: /docs
       weight: 1
     - name: About
-      pageRef: /about
+      url: "https://generated-notion-forms.com/about"
       weight: 2
     - name: Contact ↗
-      url: "https://github.com/imfing"
+      url: "https://generated-notion-forms.com/about#contact"
       weight: 3
     - name: Search
       weight: 4
@@ -33,14 +33,9 @@ menu:
         type: search
     - name: GitHub
       weight: 5
-      url: "https://github.com/imfing/hextra-starter-template"
+      url: "https://github.com/mattiamueggler/Generate-Notion-Forms-Docs"
       params:
         icon: github
-    - name: Twitter
-      weight: 6
-      url: "https://twitter.com/"
-      params:
-        icon: x-twitter
 
 params:
   navbar:
@@ -53,4 +48,13 @@ params:
 
   editURL:
     enable: true
-    base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
+    base: "https://github.com/mattiamueggler/Generate-Notion-Forms-Docs/edit/main/content"
+
+defaultContentLanguage: en
+languages:
+  en:
+    languageName: English
+    weight: 1
+  de:
+    languageName: Deutsch
+    weight: 2
