@@ -42,12 +42,11 @@ params:
     displayTitle: true
     displayLogo: true
     logo:
-      path: ./static/images/formtion_light.svg
-      dark: ./static/images/formtion_dark.svg
+      path: images/formtion_light.svg
+      dark: images/formtion_dark.svg
       width: 35
       height: 35
       link: /
-    favicon: true
 
   footer:
     displayCopyright: false
