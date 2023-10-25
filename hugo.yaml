@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: Generated Notion Forms
+title: Formtion
 
 # import hextra as module
 module:
@@ -22,10 +22,10 @@ menu:
       pageRef: /docs
       weight: 1
     - name: About
-      url: "https://generated-notion-forms.com/about"
+      url: "https://formtion.app/about"
       weight: 2
     - name: Contact ↗
-      url: "https://generated-notion-forms.com/about#contact"
+      url: "https://formtion.app/about#contact"
       weight: 3
     - name: Search
       weight: 4
@@ -33,14 +33,21 @@ menu:
         type: search
     - name: GitHub
       weight: 5
-      url: "https://github.com/mattiamueggler/Generate-Notion-Forms-Docs"
+      url: "https://github.com/mattiamueggler/Formtion-Docs"
       params:
         icon: github
 
 params:
   navbar:
     displayTitle: true
-    displayLogo: false
+    displayLogo: true
+    logo:
+      path: ./static/images/formtion_light.svg
+      dark: ./static/images/formtion_dark.svg
+      width: 35
+      height: 35
+      link: /
+    width: wide
 
   footer:
     displayCopyright: false
@@ -48,7 +55,7 @@ params:
 
   editURL:
     enable: true
-    base: "https://github.com/mattiamueggler/Generate-Notion-Forms-Docs/edit/main/content"
+    base: "https://github.com/mattiamueggler/Formtion-Docs/edit/main/content"
 
 defaultContentLanguage: en
 languages:
