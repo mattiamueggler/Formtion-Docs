@@ -18,6 +18,6 @@ möchtest.
 2. melde dich an und gehe zum App-Dashboard
 3. öffne in der Navigation die Seite `Databases`
 4. wähle die Datenbank aus, aus welcher du ein Formular generieren möchtest und klicke auf `generate new Form`
-5. Danach öffnet sich das Formular und du kannst z.B. ein Cloud-Speicher verbinden. Mehr dazu [hier](/docs/storage)
+5. Danach öffnet sich das Formular und du kannst z.B. ein Cloud-Speicher verbinden. Mehr dazu [hier](/de/docs/storage)
 6. Kopiere die URL um das Formular zu versenden.
 

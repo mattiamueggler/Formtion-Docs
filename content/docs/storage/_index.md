@@ -7,4 +7,5 @@ sidebar:
   open: true
 ---
 
-Pages can be organized into folders.
+With Formtion, different external cloud storage providers can be connected so that the uploaded files remain in your
+possession.

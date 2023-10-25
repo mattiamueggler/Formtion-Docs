@@ -7,4 +7,4 @@ sidebar:
   open: true
 ---
 
-Available soon. See the [roadmap](https://formtion.app/roadmap/).
+Bald verfügbar. Siehe dazu die [Roadmap](https://formtion.app/roadmap/).
