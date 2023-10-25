@@ -7,7 +7,9 @@ sidebar:
   open: true
 ---
 
-Create a form by connecting a Notion database with Generate Notion Forms. We will then automatically generate a form from your selected database. If you want to customize a field, you can of course do that in the form settings. Just open the list of forms and then the form you want to edit.
+Create a form by connecting a Notion database with Generate Notion Forms. We will then automatically generate a form
+from your selected database. If you want to customize a field, you can of course do that in the form settings. Just open
+the list of forms and then the form you want to edit.
 
 ## Step by step instructions
 

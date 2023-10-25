@@ -6,7 +6,9 @@ sidebar:
   open: true
 ---
 
-Falls du mit einem Feld des Formulares wie es generiert wurde nicht zufrieden bist, dann kannst du das manuell noch überschreiben. Öffne dazu die Formulareinstellungen und gehe zu den Datenbank-Attributen und wähle dann beim gewünsten Attribut den gewünschten Feldtyp aus.
+Falls du mit einem Feld des Formulares wie es generiert wurde nicht zufrieden bist, dann kannst du das manuell noch
+überschreiben. Öffne dazu die Formulareinstellungen und gehe zu den Datenbank-Attributen und wähle dann beim gewünsten
+Attribut den gewünschten Feldtyp aus.
 
 # Schritt für Schritt Anleitung
 

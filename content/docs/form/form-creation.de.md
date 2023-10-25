@@ -7,7 +7,10 @@ sidebar:
   open: true
 ---
 
-Erstelle ein Formular indem du eine Notion-Datenbank mit Generate Notion Forms verbindest. Wir generieren dir danach automatisch aus deiner ausgewählten Datenbank ein Formular. Falls du ein Feld anpassen möchtest kannst du das natürlich in den Formulareinstellungen. Öffne dazu einfach die Liste der Formulare und dann das Formular welches du bearbeiten möchtest.
+Erstelle ein Formular indem du eine Notion-Datenbank mit Generate Notion Forms verbindest. Wir generieren dir danach
+automatisch aus deiner ausgewählten Datenbank ein Formular. Falls du ein Feld anpassen möchtest kannst du das natürlich
+in den Formulareinstellungen. Öffne dazu einfach die Liste der Formulare und dann das Formular welches du bearbeiten
+möchtest.
 
 ## Schritt für Schritt Anleitung
 

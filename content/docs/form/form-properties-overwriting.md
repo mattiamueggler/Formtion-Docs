@@ -6,7 +6,8 @@ sidebar:
   open: true
 ---
 
-If you are not satisfied with a field of the form as it was generated, you can manually overwrite it. Open the form settings and go to the database attributes and select the desired field type for the desired attribute.
+If you are not satisfied with a field of the form as it was generated, you can manually overwrite it. Open the form
+settings and go to the database attributes and select the desired field type for the desired attribute.
 
 # Step by step instructions
 
