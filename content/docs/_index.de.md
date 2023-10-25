@@ -6,7 +6,7 @@ next: docs/form/
 ---
 
 {{< cards >}}
-{{< card link="form" title="Forms" icon="view-list" >}}
+{{< card link="form" title="Formulare" icon="view-list" >}}
 {{< card link="notion" title="Notion" icon="document" >}}
-{{< card link="storage" title="Storage" icon="database" >}}
+{{< card link="storage" title="Speicher" icon="database" >}}
 {{< /cards >}}
